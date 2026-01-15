@@ -135,24 +135,6 @@ dotnet run
 
 ---
 
-## 🧠 Observações Importantes
-
-* As rotas da API estão separadas com o prefixo `/api` para evitar conflitos com o redirecionamento público
-* O banco InMemory é recomendado apenas para testes e desenvolvimento
-* Para produção, recomenda-se substituir por SQL Server, PostgreSQL ou outro banco persistente
-
----
-
-## 📌 Próximos Passos (Sugestões)
-
-* Persistência em banco relacional
-* Contador de acessos por IP ou data
-* Autenticação e autorização
-* Expiração de links
-* Retorno de DTOs padronizados
-
----
-
 ## 👨‍💻 Autor
 
 Projeto desenvolvido como estudo e prática de Minimal APIs, arquitetura limpa e boas práticas em .NET.
