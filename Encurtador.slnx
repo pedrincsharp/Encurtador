@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Encurtador.API/Encurtador.API.csproj" />
+  <Project Path="Encurtador.Application/Encurtador.Application.csproj" />
+  <Project Path="Encurtador.Domain/Encurtador.Domain.csproj" />
+  <Project Path="Encurtador.Infra/Encurtador.Infra.csproj" />
+  <Project Path="Encurtador.Shared/Encurtador.Shared.csproj" />
+</Solution>
