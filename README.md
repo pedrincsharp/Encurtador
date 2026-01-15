@@ -8,7 +8,7 @@ O objetivo do projeto é permitir a criação de URLs curtas, redirecionamento p
 
 ## 🚀 Tecnologias Utilizadas
 
-* .NET 8
+* .NET 10
 * ASP.NET Core (Minimal API)
 * Entity Framework Core
 * InMemory Database (para ambiente de desenvolvimento)
